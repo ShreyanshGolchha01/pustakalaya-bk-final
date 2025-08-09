@@ -14,7 +14,7 @@ class Database {
     private $host = "localhost";
     private $db_name = "pustakalay";
     private $username = "root";
-    private $password = "";
+    private $password = "Ssipmt@2025DODB";
     public $conn;
 
     public function getConnection() {
